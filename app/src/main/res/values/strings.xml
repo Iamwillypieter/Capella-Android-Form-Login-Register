@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CapellaAndroid</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="subtitle_login">Pastikan akun login anda sudah benar.</string>
+    <string name="title_login">Welcome Back!</string>
+    <string name="login_email">Your Email</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_password">Password</string>
+    <string name="tv_forgot_pw">Forgot Password</string>
+    <string name="login_btn">Login</string>
+    <string name="create_account_btn">Create an Account</string>
+    <string name="login_password">Your Password</string>
+    <string name="tv_name">Nama Lengkap</string>
+    <string name="register_name">Nama Lengkap</string>
+    <string name="register_email">Email</string>
+    <string name="reg_email">Email</string>
+    <string name="no_hp">No. Handphone</string>
+    <string name="tv_reg_password">Password</string>
+    <string name="kofimasi_password">Kofimasi Password</string>
+    <string name="cabang">Cabang</string>
+    <string name="tv_register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="employee_id">Employee Id</string>
+    <string name="no_handphone">No. Handphone</string>
+    <string name="manager">Atasan</string>
+</resources>
